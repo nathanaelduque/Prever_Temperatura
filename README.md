@@ -1,6 +1,8 @@
 <h1 align="center"> Previsão de Temperatura </h1>
 
-[Aqui]() iremos prever a temperatura através de dados extraídos desde  Janeiro de 2009 até dezembro de 2016, para isso iremos utilizar a base de dados extraída do Kaggle " Jena Climate Dataset". Esse Dataset mede as seguintes informações a cada 10 minutos 
+[Aqui](https://github.com/nathanaelduque/Previs-o-de-Temperatura/blob/master/Previsao_Notebook.ipynb) iremos prever a temperatura através de dados extraídos desde  Janeiro de 2009 até dezembro de 2016, para isso iremos utilizar a base de dados extraída do Kaggle " Jena Climate Dataset". Esse Dataset mede as seguintes informações a cada 10 minutos 
+
+<div align="center">
 
 
 | Index  | Features | Descrição |
@@ -20,5 +22,8 @@
 | 13  | wv (m/s)  | Velocidade do Vento  |
 | 14 | max. wv (m/s) | Velocidade Máxima do Vento  |
 | 15 | wd (deg)  | Direção do Vento em Graus  |
+
+
+ </div>
 
 Todos esses dados são coletados de 10 em 10 minutos.
